@@ -1,0 +1,15 @@
+[
+  {
+    "useCase": 1,
+    "description": "Send email",
+    "rq": {
+      "to": "bottomline.receiver@gmail.com",
+      "from": "bottomline.sender@gmail.com",
+      "subject": "subject5error",
+      "bodyText":  "bodyText5error"
+    },
+    "rs": {
+      "statusCode": 200
+    }
+  }
+]

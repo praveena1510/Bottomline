@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="GmailAPI">
+  <test name="Send and receive email">
+    <classes>
+      <class name="test.SendReceiveEmail" />
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,11 @@
+dto\SendEmailResponseDTO.class
+servicecalls\GmailCalls.class
+test\SendReceiveEmail.class
+validation\Assertion.class
+dto\CreateEmailInputRqDTO.class
+utils\Utility.class
+dto\CreateEmailInputDTO.class
+servicecalls\Google.class
+dto\CreateEmailInputRsDTO.class
+datahelper\DataHelper.class
+dto\TokenResponseDTO.class

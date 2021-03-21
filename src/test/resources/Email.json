@@ -5,8 +5,7 @@
     "rq": {
       "to": "bottomline.receiver@gmail.com",
       "from": "bottomline.sender@gmail.com",
-      "subject": "subject5error",
-      "bodyText":  "bodyText5error"
+      "bodyText":  "bodyTest"
     },
     "rs": {
       "statusCode": 200
